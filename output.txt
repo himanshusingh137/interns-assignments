@@ -1,0 +1,2 @@
+10-2= = Illegal embedded sign character
+100*(2+12)= = Illegal embedded sign character
